@@ -1,0 +1,27 @@
+loadTexture=C1,Corner1,Wall
+loadTexture=C2,Corner2,Wall
+loadTexture=C3,Corner3,Wall
+loadTexture=C4,Corner4,Wall
+loadTexture=WN,WallNorth,Wall
+loadTexture=WE,WallEast,Wall
+loadTexture=WS,WallSouth,Wall
+loadTexture=WW,WallWest,Wall
+loadTexture=PT,Pitfall,Death
+
+mapline00="PT"
+mapline00="PT"
+mapline00="PT"
+mapline00="PT"
+mapline00="PT"
+mapline00="C4WNWNWNWNWNWNWNWNWNWNWNWNC1"
+mapline00="WW                        WE"
+mapline00="WW                        WE"
+mapline00="WW                        WE"
+mapline00="C3WSWSWSWSWSWSWSWSWSWSWSWSC2"
+mapline00="PT"
+mapline00="PT"
+mapline00="C4WNWNWNWNWNWNWNWNWNWNWNWNC1"
+mapline00="WW                        WE"
+mapline00="WW                        WE"
+mapline00="WW                        WE"
+mapline00="C3WSWSWSWSWSWSWSWSWSWSWSWSC2"
